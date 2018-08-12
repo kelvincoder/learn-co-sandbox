@@ -1,0 +1,5 @@
+age = 25
+ if age >= 21# condition
+    puts "allowed in the club"# do this if the condirion is truthy
+    
+    end
